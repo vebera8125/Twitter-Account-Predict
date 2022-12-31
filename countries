@@ -1,0 +1,12 @@
+{
+  "thailand":{
+    "countryCode":"+66",
+    "phonePrefixes":"90-80",
+    "phoneSize": 9
+  },
+  "lebanon":{
+      "countryCode":"+961",
+      "phonePrefixes":"03-70-71-76",
+      "phoneSize": 8
+    }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "TwCrawler",
+  "version": "1.0.0",
+  "dependencies": {
+    "@napi-rs/uuid": "^0.2.2",
+    "async-worker-threads-pool": "^1.0.18-alpha.19",
+    "dotenv": "^16.0.3",
+    "jsdom": "^20.0.3",
+    "request-promise-native": "^1.0.9",
+    "uuid": "^9.0.0",
+    "worker-threads-pool": "^2.0.0"
+  }
+}
