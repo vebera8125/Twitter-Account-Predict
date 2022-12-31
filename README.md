@@ -21,3 +21,5 @@ You need to change the config.env file<br>
 You need to add new countries that you wanted to crawl to the countries file<br>
 while adding a new country to the countries file, please you pay attention to the example countries.<br>
 Format must be as example countries. You can see to add new countries to help from <a href="https://en.wikipedia.org/wiki/List_of_mobile_telephone_prefixes_by_country">wikipedia
+
+![alt text](https://cdn.discordapp.com/attachments/694300746082025502/1047564057357594654/image.png)
